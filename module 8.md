@@ -63,6 +63,7 @@ int main() {
 
 Output:
 
+
 <img width="567" height="267" alt="image" src="https://github.com/user-attachments/assets/5e96b7ec-69bc-4f6c-ab3f-f4b446cab7e7" />
 
 
@@ -105,7 +106,8 @@ int main(){
 
 
 
-Output:
+Output
+
 <img width="550" height="136" alt="image" src="https://github.com/user-attachments/assets/53ea20de-7ac0-452c-bfb0-fbd06b48d35b" />
 
 
@@ -175,6 +177,7 @@ int main(){
 ```
 
 Output:
+
 <img width="334" height="296" alt="image" src="https://github.com/user-attachments/assets/19d69f2a-9f23-4807-865d-7790f87cc5e7" />
 
 
