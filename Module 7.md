@@ -37,6 +37,7 @@ int main() {
 ```
 
 Output:
+<img width="1315" height="516" alt="image" src="https://github.com/user-attachments/assets/dea1d429-bf8b-49ec-a06f-33cf29c64d17" />
 
 
 
@@ -59,17 +60,34 @@ Algorithm:
 7.	Return 0
  
 Program:
+```c
+#include <stdio.h>
 
-//type your code here
+struct numbers {
+    int a;
+    int b;
+};
 
+int add(struct numbers n) {
+    return n.a + n.b;
+}
 
+int main() {
+    struct numbers n;
 
+    printf("Enter two numbers:\n");
+    scanf("%d %d", &n.a, &n.b);
+
+    int result = add(n);
+
+    printf("Sum: %d\n", result);
+
+    return 0;
+}
+```
 
 Output:
-
-
-//paste your output here
-
+<img width="465" height="529" alt="image" src="https://github.com/user-attachments/assets/36bc1b9f-7fd1-426e-a420-05e114995c87" />
 
 
 
